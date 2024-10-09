@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/ziadMhCs/karamDeploy/static/css/main.f35bb1bd.css",
-    "main.js": "/ziadMhCs/karamDeploy/static/js/main.722e7d86.js",
+    "main.js": "/ziadMhCs/karamDeploy/static/js/main.e413a966.js",
     "static/js/453.ed3810f9.chunk.js": "/ziadMhCs/karamDeploy/static/js/453.ed3810f9.chunk.js",
     "static/media/login-image.png": "/ziadMhCs/karamDeploy/static/media/login-image.c20e35812db4df507f87.png",
     "static/media/img1.jpeg": "/ziadMhCs/karamDeploy/static/media/img1.1f6b34ed58fe2fc4a00c.jpeg",
     "static/media/img2.jpeg": "/ziadMhCs/karamDeploy/static/media/img2.5a3d4a871dfd278da16f.jpeg",
     "index.html": "/ziadMhCs/karamDeploy/index.html",
     "main.f35bb1bd.css.map": "/ziadMhCs/karamDeploy/static/css/main.f35bb1bd.css.map",
-    "main.722e7d86.js.map": "/ziadMhCs/karamDeploy/static/js/main.722e7d86.js.map",
+    "main.e413a966.js.map": "/ziadMhCs/karamDeploy/static/js/main.e413a966.js.map",
     "453.ed3810f9.chunk.js.map": "/ziadMhCs/karamDeploy/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f35bb1bd.css",
-    "static/js/main.722e7d86.js"
+    "static/js/main.e413a966.js"
   ]
 }
